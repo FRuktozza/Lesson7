@@ -1,0 +1,15 @@
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\Task50.csproj.AssemblyReference.cache
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\Task50.AssemblyInfoInputs.cache
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\Task50.AssemblyInfo.cs
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\Task50.csproj.CoreCompileInputs.cache
+E:\Dev (E)\Заказы\Ирина\Task50\bin\Debug\net7.0\Task50.exe
+E:\Dev (E)\Заказы\Ирина\Task50\bin\Debug\net7.0\Task50.deps.json
+E:\Dev (E)\Заказы\Ирина\Task50\bin\Debug\net7.0\Task50.runtimeconfig.json
+E:\Dev (E)\Заказы\Ирина\Task50\bin\Debug\net7.0\Task50.dll
+E:\Dev (E)\Заказы\Ирина\Task50\bin\Debug\net7.0\Task50.pdb
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\Task50.dll
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\refint\Task50.dll
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\Task50.pdb
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\Task50.genruntimeconfig.cache
+E:\Dev (E)\Заказы\Ирина\Task50\obj\Debug\net7.0\ref\Task50.dll
